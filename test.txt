@@ -5,7 +5,7 @@ some data
 additional commit 1
 additional commit 2
 
-master commit
+master  commit
 
 =======
 master commit
